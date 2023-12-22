@@ -10,6 +10,8 @@ This project was developed with C++20 and OpenCV. The aim of this project is to 
 
 ## Usage
 
+![usage](https://github.com/ronymarcolino/opencv-camera-blur-face/blob/main/img/screenshot.png?raw=true)
+
 - After build in Release or Debug
 - Open the binary 'opencv-camera-blur.exe'
 - The default camera selected is the index 0
