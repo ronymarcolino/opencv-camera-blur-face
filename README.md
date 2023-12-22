@@ -1,5 +1,6 @@
 # OpenCV Camera detect faces blur and count
 
+## Overview
 This project was developed with C++20 and OpenCV. The aim of this project is to detect all the faces in the camera, blur them all, count how many there are and show the number in the overlay.
 
 ## Requirements
